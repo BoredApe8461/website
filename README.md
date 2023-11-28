@@ -4,11 +4,11 @@
 
 # Screenshot
 
-![mld edit](https://user-images.githubusercontent.com/43953425/212030864-cf3aa272-e070-4e1b-8e25-f488ca56873e.png)
+![regionx edit](https://user-images.githubusercontent.com/43953425/212030864-cf3aa272-e070-4e1b-8e25-f488ca56873e.png)
 
 
 
-The Live demo is available [Here](https://mld-prototype.netlify.app)
+The Live demo is available [Here](https://regionx-prototype.netlify.app)
 
 ## Description
 
