@@ -18,7 +18,7 @@ function CoretimeMarket() {
                             A secondary Coretime market that enables developers and traders to buy and sell Coretime effortlessly. Our market supports a dynamic pricing model that mirrors the wastage of Coretime when not in use.
                         </p>
 
-                        <a href="https://github.com/RegionX-Labs/RegionX " target='_blank' className='mt-2'>
+                        <a href="https://regionx.gitbook.io/wiki/basics/primary-coretime-market" target='_blank' className='mt-2'>
                             <button className='border-2 border-sky-500 hover:bg-sky-500 text-white transition duration-300  px-5 py-2 rounded-md w-[150px] text-sm'>
                                 Learn More
                             </button>
