@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: 'RegionX',
-  description: 'Developed by MetroCoder',
+  description: 'Coretime Marketplace and Tooling for Polkadot and Kusama',
 }
 
 export default function RootLayout({
