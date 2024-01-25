@@ -79,8 +79,8 @@ function Navbar() {
 
                             </div>
                         </div>
-                        <button className='border-2 border-sky-500 hover:bg-sky-500 hover:text-white transition duration-300  px-5 py-2 rounded-md ml-5'>Launch App | Soon</button>
-
+                        <button onClick={() => window.location.href = "https://app.regionx.tech/"} 
+                        className='border-2 border-sky-500 hover:bg-sky-500 hover:text-white transition duration-300  px-5 py-2 rounded-md ml-5'>Launch App</button>
                     </div>
                 </div>
             </div>
