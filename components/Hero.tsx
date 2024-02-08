@@ -12,7 +12,7 @@ function Hero() {
                         <h1 className='text-3xl lg:text-4xl font-semibold text-white'>
                             Coretime Marketplace and Tooling for Polkadot and Kusama
                         </h1>
-                        <p className='text-sm text-gray-400 mt-5'>RegionX is a project dedicated to developing components for the new Agile Coretime model. The goal of the project is to enable developer teams, researchers, and enthusiasts to start trading, tracking, and analyzing the product Polkadot offers - Coretime. </p>
+                        <p className='text-sm text-gray-400 mt-5'>RegionX is a project dedicated to developing components for the new Agile Coretime model. Our goal is to enable developer teams, researchers, and enthusiasts to start trading, tracking, and analyzing the product Polkadot offers - Coretime. </p>
                         <div className='mt-10'>
                             <Link
                                 href='#components'>
@@ -26,7 +26,7 @@ function Hero() {
                 py-20">
 
                         <div className='w-full lg:w-3/5 mx-auto flex flex-col gap-1 z-20 text-gray-300'>
-                            <img src="/CoretimeHub.png" alt="" className='w-full lg:scale-125' />
+                            <img src="/Hero.png" alt="" className='w-full lg:scale-125' />
                         </div>
                     </div>
                 </div>

@@ -19,10 +19,10 @@ function Community() {
                             </a>
                         </div>
                         <div data-aos="fade-up" data-aos-duration="3000" className="px-5 py-10 border border-sky-500 border-opacity-20 rounded-lg">
-                            <img className="h-10 mb-6 mx-auto" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="content" />
-                            <h3 className="tracking-widest text-sky-500 text-base font-medium title-font text-center">Discord</h3>
-                            <a href="" target="_blank" rel="noopener noreferrer">
-                                <button className="flex mx-auto mt-5 text-white bg-gray-900 transition duration-200 hover:bg-sky-500 border-0 py-2 px-8 focus:outline-none rounded">Soon</button>
+                            <img className="h-10 mb-6 mx-auto" src="/linkedin.png" alt="content" />
+                            <h3 className="tracking-widest text-sky-500 text-base font-medium title-font text-center">LinkedIn</h3>
+                            <a href="https://www.linkedin.com/company/regionx/" target="_blank" rel="noopener noreferrer">
+                                <button className="flex mx-auto mt-5 text-white bg-gray-900 transition duration-200 hover:bg-sky-500 border-0 py-2 px-8 focus:outline-none rounded">Follow</button>
                             </a>
                         </div>
                         <div data-aos="fade-up" data-aos-duration="3000" className="px-5 py-10 border border-sky-500 border-opacity-20 rounded-lg">
