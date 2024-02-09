@@ -54,7 +54,7 @@ function Navbar() {
                                 <div className='flex flex-col ml-5'>
                                     <div className='flex flex-col gap-7 justify-start'>
                                         <a href='https://regionx.gitbook.io/wiki' target='_blank' className=' font-medium hover:text-sky-500 transition duration-200 cursor-pointer'>Wiki</a>
-                                        <a href='https://github.com/w3f/Grants-Program/pull/2080' target='_blank' className=' font-medium hover:text-sky-500 transition duration-200 cursor-pointer'>Proposal</a>
+                                        <a href='https://github.com/RegionX-Labs/Docs/blob/main/RegionX-Core.pdf' target='_blank' className=' font-medium hover:text-sky-500 transition duration-200 cursor-pointer'>White Paper</a>
                                         <a href='https://github.com/RegionX-Labs' target='_blank' className=' font-medium hover:text-sky-500 transition duration-200 cursor-pointer'>GitHub</a>
                                         <a href='#team' className=' font-medium hover:text-sky-500 transition duration-200 cursor-pointer'>Team</a>
 
@@ -73,7 +73,7 @@ function Navbar() {
                         <div className='flex items-center'>
                             <div className='flex items-center gap-7'>
                                 <a href='https://regionx.gitbook.io/wiki' target='_blank' className=' font-medium hover:text-sky-500 transition duration-200 cursor-pointer'>Wiki</a>
-                                <a href='https://github.com/w3f/Grants-Program/pull/2080' target='_blank' className=' font-medium hover:text-sky-500 transition duration-200 cursor-pointer'>Proposal</a>
+                                <a href='https://github.com/RegionX-Labs/Docs/blob/main/RegionX-Core.pdf' target='_blank' className=' font-medium hover:text-sky-500 transition duration-200 cursor-pointer'>White Paper</a>
                                 <a href='https://github.com/RegionX-Labs' target='_blank' className=' font-medium hover:text-sky-500 transition duration-200 cursor-pointer'>GitHub</a>
                                 <a href='#team' className=' font-medium hover:text-sky-500 transition duration-200 cursor-pointer'>Team</a>
 
