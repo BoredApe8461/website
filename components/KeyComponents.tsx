@@ -8,7 +8,7 @@ function KeyComponents() {
     const components = [
         {
             name: 'Cross-Chain Regions',
-            description: 'RegionX offers a solution for transferring regions across chains. This enables the creation of a decentralized, secondary Coretime marketplace',
+            description: 'RegionX offers a solution for transferring regions across chains. This enables the creation of a decentralized, secondary Coretime marketplace.',
             image: '/xcRegions.png'
         },
         {

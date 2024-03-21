@@ -26,7 +26,7 @@ function Community() {
                             </a>
                         </div>
                         <div data-aos="fade-up" data-aos-duration="3000" className="px-5 py-10 border border-sky-500 border-opacity-20 rounded-lg">
-                            <img className="h-10 mb-6 mx-auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" alt="content" />
+                            <img className="h-10 mb-6 mx-auto" src="/telegram.png" alt="content" />
                             <h3 className="tracking-widest text-sky-500 text-base font-medium title-font text-center">Telegram</h3>
                             <a href="" target="_blank" rel="noopener noreferrer">
                                 <button className="flex mx-auto mt-5 text-white bg-gray-900 transition duration-200 hover:bg-sky-500 border-0 py-2 px-8 focus:outline-none rounded">Soon</button>
