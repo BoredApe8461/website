@@ -28,11 +28,6 @@ function KeyComponents() {
         },
     ]
 
-
-
-
-
-
     return (
         <div data-aos="fade-up" data-aos-duration="2000" id='components' className='bg-[#000811] pt-14 pb-36'>
             <div className='max-w-7xl mx-auto px-7 2xl:px-0'>
@@ -45,7 +40,7 @@ function KeyComponents() {
                         components.map((component, index) => (
                             <div key={index} className='flex flex-col gap-5 p-7 border-sky-500 hover:bg-sky-500 hover:bg-opacity-5 border-opacity-20 border rounded-xl hover:translate-y-[-10px] transition duration-500'>
                                 <div className='flex flex-col items-center gap-5'>
-                                    <img src={component.image} alt="" className='w-[100px]' />
+                                    <img src={component.image} alt="" className='w-[500px]' />
                                     <div className='text-center'>
                                         <h1 className='text-white text-xl font-semibold'>
                                             {component.name}
