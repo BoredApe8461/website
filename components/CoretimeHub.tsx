@@ -15,7 +15,7 @@ function CoretimeHub() {
                             Coretime Hub
                         </h1>
                         <p className='text-gray-200 lg:text-lg'>
-                            A central hub where users will be able to perform operations on their Coretime and easily access the marketplace.
+                            A central hub where users are able to perform operations on their Coretime and easily access the marketplace.
                         </p>
 
                         <a href="https://app.regionx.tech" target='_blank' className='mt-2'>

@@ -17,7 +17,7 @@ function CorespaceWeigher() {
                             Polkadot Weigher
                         </h1>
                         <p className='text-gray-200 lg:text-lg'>
-                            A component that provides parachain teams with the data necessary to track their Coretime utilization, which is crucial for making informed decisions in the Coretime market.
+                            Tool which provides parachain teams with the data necessary to track their Coretime utilization, which is crucial for making informed decisions in the Coretime market.
                         </p>
 
                         <a href="https://github.com/RegionX-Labs/RegionX " target='_blank' className='mt-2'>

@@ -1,6 +1,7 @@
 'use client'
 import Community from '@/components/Community'
 import CorespaceWeigher from '@/components/CorespaceWeigher'
+import Coretime from '@/components/Coretime'
 import CoretimeHub from '@/components/CoretimeHub'
 import CoretimeMarket from '@/components/CoretimeMarket'
 import CrossChainRegions from '@/components/CrossChainRegions'
@@ -29,6 +30,7 @@ export default function Home() {
         <Hero />
       </div>
 
+      <Coretime />
       <KeyComponents />
       <CrossChainRegions />
       <CoretimeMarket />

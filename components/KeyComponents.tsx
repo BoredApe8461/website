@@ -8,22 +8,22 @@ function KeyComponents() {
     const components = [
         {
             name: 'Cross-Chain Regions',
-            description: 'RegionX offers a solution for transferring regions across chains. This enables the creation of a decentralized, secondary Coretime marketplace.',
+            description: 'RegionX offers a solution for transferring regions across chains. This enables the creation of a decentralized secondary Coretime marketplace.',
             image: '/xcRegions.png'
         },
         {
             name: 'Secondary Coretime Market',
-            description: 'A secondary Coretime market that enables developers and traders to buy and sell Coretime effortlessly.',
+            description: 'A secondary Coretime market that enables developers and traders to buy and sell Coretime affordably.',
             image: '/Market.png'
         },
         {
             name: 'Coretime Hub',
-            description: 'A central hub where users will be able to perform operations on their Coretime and easily access the marketplace.',
+            description: 'A central hub where users are able to perform operations on their Coretime and easily access the marketplace.',
             image: '/CoretimeHub.png'
         },
         {
             name: 'Corespace Weigher',
-            description: 'A component that provides parachain teams with the data necessary to track their Coretime utilization.',
+            description: 'Tool which provides parachain teams with the data necessary to track their Coretime utilization.',
             image: '/Weigher.png'
         },
     ]
@@ -31,7 +31,7 @@ function KeyComponents() {
     return (
         <div data-aos="fade-up" data-aos-duration="2000" id='components' className='bg-[#000811] pt-14 pb-36'>
             <div className='max-w-7xl mx-auto px-7 2xl:px-0'>
-                <h1 className='text-sky-500 text-2xl font-semibold text-center pt-20'>Key Project Components</h1>
+                <h1 className='text-white text-2xl font-semibold text-center pt-20'>RegionX key components</h1>
 
                 <div data-aos="fade-up"
                     data-aos-duration="2000"

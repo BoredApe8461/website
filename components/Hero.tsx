@@ -10,13 +10,13 @@ function Hero() {
                     <div data-aos="fade-left" data-aos-duration="2500" className="w-full lg:w-2/5">
 
                         <h1 className='text-3xl lg:text-4xl font-semibold text-white'>
-                            Coretime Marketplace and Tooling for Polkadot and Kusama
+                            Deploy to the future of web at low costs
                         </h1>
-                        <p className='text-sm text-gray-400 mt-5'>RegionX is a project dedicated to developing components for the new Agile Coretime model. Our goal is to enable developer teams, researchers, and enthusiasts to start trading, tracking, and analyzing the product Polkadot offers - Coretime. </p>
+                        <p className='text-sm text-gray-400 mt-5'>Get your project <span style={{fontWeight: "bold"}}>Secured by Polkadot</span> affordably</p>
                         <div className='mt-10'>
                             <Link
                                 href='#components'>
-                                <button className=' hover:bg-white bg-sky-500 text-white hover:text-zinc-800 transition duration-150 px-7 py-3 rounded-md'>Explore Components</button>
+                                <button className=' bg-white text-black bg-sky-500 hover:text-zinc-800 transition duration-150 px-7 py-3 rounded-md'>Explore</button>
                             </Link>
                         </div>
                     </div>

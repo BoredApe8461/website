@@ -13,7 +13,7 @@ function CrossChainRegions() {
                             Cross-Chain Regions
                         </h1>
                         <p className='text-gray-200 lg:text-lg'>
-                            RegionX offers a solution for transferring regions across chains. This enables the creation of a decentralized, secondary Coretime marketplace.
+                            RegionX offers a solution for transferring regions across chains. This enables the creation of a decentralized secondary Coretime marketplace.
                         </p>
 
                         <a href="https://regionx.gitbook.io/wiki/advanced/cross-chain-regions" target='_blank' className='mt-2'>
