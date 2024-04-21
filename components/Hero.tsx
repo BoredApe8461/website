@@ -10,7 +10,7 @@ function Hero() {
                     <div data-aos="fade-left" data-aos-duration="2500" className="w-full lg:w-2/5">
 
                         <h1 className='text-3xl lg:text-4xl font-semibold text-white'>
-                            Deploy to the future of the web at low cost
+                            Making Web3 Accessible
                         </h1>
                         <p className='text-xl text-gray-400 mt-5'>Get your project <span style={{fontWeight: "bold"}}>Secured by Polkadot</span> affordably</p>
                         <div className='mt-10'>
