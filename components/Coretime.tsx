@@ -12,7 +12,7 @@ function Coretime() {
                     </div>
                     <div data-aos="fade-up" data-aos-duration="3000" className='w-full lg:w-[60%] flex flex-col justify-center gap-5'>
                         <p className='text-gray-200 lg:text-lg'>
-                            Projects need to reserve Coretime on Polkadot's cores to access its secure and interoperable blockspace. We are offering the platform to purchase chunks of Coretime cheaply.
+                            Projects deploying on Polkadot must reserve its computational resources, known as Coretime. While Polkadot provides Coretime in bulk at the protocol level, RegionX allows projects to acquire it on a more granular, 'retail' level.
                         </p>
 
                         <a href="https://wiki.polkadot.network/docs/polkadot-direction" className="text-center mt-2 flex md:justify-start justify-center" target='_blank'>
