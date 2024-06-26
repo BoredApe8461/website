@@ -14,7 +14,7 @@ function Navbar() {
             <div className='max-w-7xl mx-auto px-7 2xl:px-0'>
                 <div className='flex justify-between items-center py-5'>
                     <div className='flex items-center'>
-                        <img src='https://i.ibb.co/k646d45/LogoNoBg.png' alt='logo' className=' w-[70px]' />
+                        <img src='https://i.ibb.co/k646d45/logo.png' alt='logo' className=' w-[70px]' />
                         <div className=''>
                             <h1 className='text-white text-2xl font-semibold'>RegionX</h1>
                         </div>
